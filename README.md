@@ -1,5 +1,3 @@
-# portfoliohub-andre
-
 # PortfolioHUB - André Magalhães
 
 Este repositório foi criado como parte da atividade acadêmica de Criação de Repositório com Versionamento.
