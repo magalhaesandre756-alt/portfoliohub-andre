@@ -23,7 +23,7 @@ Organizar projetos acadêmicos e pessoais utilizando Git, GitHub, documentação
 
 ## Links
 
-- GitHub Pages: 
+- GitHub Pages: https://magalhaesandre756-alt.github.io/portfoliohub-andre/
 - Currículo Online: https://sites.google.com/view/curriculoandremagalhaes/in%C3%ADcio
 - LinkedIn: linkedin.com/in/andre-de-oliveira-magalhaes-297a203a6
 
